@@ -1,4 +1,4 @@
-# Sparkify Postgres ETL (Udacity Nanodegree - Data Engineering path)
+# Sparkify Postgres ETL (Udacity Nanodegree - Data Engineering Path)
 
 ## Project: Data Modeling with Postgres
 
